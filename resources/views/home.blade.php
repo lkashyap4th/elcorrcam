@@ -14,6 +14,4 @@
         </div>
     </div>
 </div>
-dfsdsf
-sdfds
 @endsection
