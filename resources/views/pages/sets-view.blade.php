@@ -40,7 +40,7 @@
                             <h3>Camera</h3>
                             <div class="row">
                                 <div class="col-md-12">
-                                    <button type="button" class="btn btn-default btn-sm pull-right m-y-10 btn-create-camera">Create Camera</button>
+                                    <button type="button" class="btn btn-default btn-sm pull-right m-y-10 btn-create-camera">Add Camera</button>
                                 </div>
                             </div>
                             @if (count($set->cameras))
